@@ -560,6 +560,32 @@ p span {
   background-color: #b8485b;
 }
 
+.rounded-button3 {
+  display: inline-block;
+  width: 220px; /* お好みで調整 */
+  text-align: center;
+  /* 既存のスタイルもここに */
+    background-color: #d35d6e;
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 1.5rem;
+  text-decoration: none;
+  font-size: 1.2rem;
+  margin: 0.5rem 1rem;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+.rounded-button h6 {
+  display: block;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.rounded-button3:hover,
+.rounded-button3:focus {
+  background-color: #b8485b;
+}
+
 /* --- リンクボタン2 --- */
 .link-buttons2 {
   text-align: center;

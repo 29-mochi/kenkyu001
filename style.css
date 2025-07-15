@@ -33,6 +33,10 @@ body {
 　font-family: "Zen Maru Gothic", sans-serif;
 }
 
+body, h1, h2, h3, p, a, button, input, label {
+  font-family: "Zen Maru Gothic", sans-serif;
+}
+
 .hr1 {
  border-top: 5px 
  dotted #d35d6e; 

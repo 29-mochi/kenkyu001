@@ -29,9 +29,8 @@ body {
   margin: 0;
   background-color: #fdf6ec; /* 指定背景色 */
   color: #362b2b; /* 文字色 */
-  font-family: 'Noto Sans JP', sans-serif;
   line-height: 1.6;
-　 font-family: "Zen Maru Gothic", sans-serif;
+　font-family: "Zen Maru Gothic", sans-serif;
 }
 
 .hr1 {

@@ -237,6 +237,7 @@ p span {
   display: flex;
   flex-direction: column;
   align-items: center;
+　text-align: center;
   padding: 4rem 1.5rem 2rem 1.5rem; /* 左右余白を1.5remに調整 */
   max-width: auto;
   text-align: center;

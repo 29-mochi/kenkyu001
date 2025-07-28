@@ -245,7 +245,8 @@ p span {
 }
 
 .taramubi-text {
-  text-align: left;
+    text-align: center;
+  align-items: center;
   width: 100%;
   margin-bottom: 1rem;
   word-break: break-all;
@@ -265,20 +266,7 @@ p span {
   margin auto;
   box-sizing: border-box;
 }
-
-.taramubi-text {
-  text-align: left;
-  margin: auto;
-  margin-bottom: 1rem;
-  word-break: break-all;
-}
-
-.taramubi-text span,
-.taramubi-text strong {
-  display: inline-block;
-}
   
-
 /* --- 管理者紹介 --- */
 .admin-section {
   align-items: center;

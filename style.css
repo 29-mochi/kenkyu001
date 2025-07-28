@@ -236,8 +236,8 @@ p span {
 .taramubi {
   display: flex;
   flex-direction: column;
+  text-align: center;
   align-items: center;
-　text-align: center;
   padding: 4rem 1.5rem 2rem 1.5rem; /* 左右余白を1.5remに調整 */
   max-width: auto;
   text-align: center;
@@ -246,7 +246,7 @@ p span {
 }
 
 .taramubi-text {
-    text-align: center;
+  text-align: center;
   align-items: center;
   width: 100%;
   margin-bottom: 1rem;
